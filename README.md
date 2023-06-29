@@ -20,7 +20,7 @@
 ## :fire: My Stats
   [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=bretrosen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## This profile README has a dev branch 😲(we don't just work in main on this project! 😲)
+## This profile README has a dev branch (we don't just work in main on this project! 😲)
 
 
 <!--
