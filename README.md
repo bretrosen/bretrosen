@@ -1,8 +1,9 @@
 # Hi there 👋
 
-# A little about me 📰
-
-## This profile README has a dev branch (we don't just work in main on this project!)
+#  A little about me 📰
+## 🎈Avid reader, writer, hiker, and cook
+## 🎈Lived and worked in China for 6 years
+## 🎈Native (and current) Minnesotan
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
@@ -18,6 +19,8 @@
 
 ## :fire: My Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bretrosen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## This profile README has a dev branch (we don't just work in main on this project!)
 
 
 <!--
