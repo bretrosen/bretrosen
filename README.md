@@ -1,9 +1,9 @@
 # Hi there 👋
 
 #  A little about me 📰
-## 🎈Avid reader, writer, hiker, and cook
-## 🎈Lived and worked in China for 6 years
-## 🎈Native (and current) Minnesotan
+## ✔️Avid reader, writer, hiker, and cook:check
+## ✔️Lived and worked in China for 6 years
+## ✔️Native (and current) Minnesotan
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
