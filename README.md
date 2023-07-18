@@ -1,7 +1,7 @@
 # Hi there 👋
 
 #  A little about me 📰
-## ✔️Avid reader, writer, hiker, and cook:check
+## ✔️Avid reader, writer, hiker, and cook
 ## ✔️Lived and worked in China for 6 years
 ## ✔️Native (and current) Minnesotan
 
