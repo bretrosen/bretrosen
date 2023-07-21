@@ -4,6 +4,7 @@
 ## ✔️Avid reader, writer, hiker, and cook
 ## ✔️Lived and worked in China for 6 years
 ## ✔️Native (and current) Minnesotan
+## 🟢Seeking a software engineering position
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
