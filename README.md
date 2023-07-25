@@ -5,6 +5,7 @@
 ## ✔️Lived and worked in China for 6 years
 ## ✔️Native (and current) Minnesotan
 ## 🟢Seeking a software engineering position
+## 🟢Looking for an agile role with a preference for back-end/data-oriented
 
 ## :hammer_and_wrench: Languages and Tools
 <div>
